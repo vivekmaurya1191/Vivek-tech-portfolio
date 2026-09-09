@@ -1,4 +1,4 @@
-# Vivek Maurya — IT Solutions & Cybersecurity (V8)
+# Vivek Maurya — IT Solutions & Cybersecurity (V12)
 
 - Updated profile photo from the latest supplied image.
 - Added CSS-first animations across hero, navbar, cards, timeline, contact and interactions.
